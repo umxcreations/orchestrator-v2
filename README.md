@@ -2,6 +2,10 @@
 
 🎥 **[Watch the 2-Minute Project Demo](https://drive.google.com/file/d/1emXolZscY9rt3oSobPU_-VsR_RBsO_P0/view?usp=sharing)** *(Video is public for judges!)*
 
+
+https://github.com/user-attachments/assets/42dbe49b-6c4b-40e9-80f7-b74bfffbebbd
+
+
 An agentic, skill-driven, loop-based orchestrator that turns Slack into your primary developer workspace. By connecting **Slack**, **Notion**, and **GitHub**, this harness allows you to perform code-level changes on any targeted repository directly through chat - eliminating the need to open an IDE.
 
 ---
